@@ -1,0 +1,7 @@
+{
+  "name": "dailyluck",
+  "description": "매일 오전 9시 KST, 당신의 생년월일을 바탕으로 띠별/별자리 운세를 자동으로 업데이트하고 알려주는 프리미엄 운세 서비스입니다.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
